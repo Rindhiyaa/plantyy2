@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 git 
+=======
+neeye vazhkai enben en vaazhu 
+>>>>>>> gitbranch1
+lyf eh tholachutiye kumaruhh
+
